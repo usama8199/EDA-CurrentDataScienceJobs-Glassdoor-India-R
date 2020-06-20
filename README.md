@@ -62,5 +62,5 @@ Q7. Companies one should look for?
     
 ## Video of Complete Analysis and codes (click on the image)
 
-[<img src="https://img.youtube.com/vi/dGfdbJ1gTgQ /maxresdefault.jpg" width="60%">](https://youtu.be/dGfdbJ1gTgQ )
+[<img src="https://img.youtube.com/vi/dGfdbJ1gTgQ/maxresdefault.jpg" width="60%">](https://youtu.be/dGfdbJ1gTgQ)
 
