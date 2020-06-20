@@ -60,7 +60,7 @@ Q7. Companies one should look for?
 
     'Amazon' 'Approgence' 'BuzzBoard' 'Capgemini' 'CIEL HR Services' 'Citi' 'Cleartrip' 'Copiousminds' 'Crescendo Global Services' 'Dasceq''dunnhumby' 'EY' 'FLEXILOANS TECHNOLOGIES' 'GP Strategies''GSK' 'Happy Marketer' 'Honeywell' 'Institutional Shareholder Services, Inc.' 'J.P. Morgan' 'Khoros, LLC' 'Kwalee' 'Live Connections' 'LogisticsNow' 'Lynkit''Magna Infotech (India)' 'Matelabs Innovations Pvt. Ltd.' 'Novartis' 'PayPal' 'Pype' 'Quantzig' 'Rubicon Red' 'Sanofi' 'String Bio' 'The Edge Asia' 'Think Analytics India' 'Walmart' 'WDB Inida Private Limited' 'ZoomRx' they are the companies who are currently hiring for multiple positions with various job titles
     
-## Video of Complete Analysis using Tableau (click on the image)
+## Video of Complete Analysis and codes (click on the image)
 
 [<img src="https://img.youtube.com/vi/dGfdbJ1gTgQ /maxresdefault.jpg" width="60%">](https://youtu.be/dGfdbJ1gTgQ )
 
