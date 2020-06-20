@@ -12,11 +12,17 @@ Analysis of current data science jobs in Covid 19 Situation on glassdoor in Indi
 
 ## Problem Formulate from the data
 Q1. What are the key skills reuirement for data science domain?
+
 Q2. What are the location one should look for?
+
 Q3. Size of companies which are actively hiring?
+
 Q4. Types of Companies hiring Public or Private ?
+
 Q5. Types of Industry which are on hiring spree ?
+
 Q6. Types of Sectors which are on hiring spree ?
+
 Q7. Companies one should look for?
 
 ## Insights
