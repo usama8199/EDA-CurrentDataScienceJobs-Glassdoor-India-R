@@ -54,7 +54,7 @@ Q7. Companies one should look for?
   4. For Machine Learning Engineer : Python, R programming(optional)
   
 **If you are looking for jobs try to find jobs in**
-  1. Cities like Begaluru, Mumbai, Pune, Hyderabad
+  1. Cities like Bengaluru, Mumbai, Pune, Hyderabad
   2. Find jobs in Startups and MNC's as they are on hiring spree
   3. Find jobs in Private companies
   4. Try IT Services industry as they are hiring in high numbers
